@@ -6,6 +6,16 @@ Website portofolio pribadi multi-halaman dengan desain responsive yang dibuat se
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-green)
 
+## Author
+
+**Gangsar Anjasmoro**  
+Mahasiswa Teknik Informatika Semester 3  
+Institut Teknologi PLN
+
+- Email: gangsar2431170@itpln.ac.id
+- GitHub: [@gaangsarr](https://github.com/gaangsarr)
+- LinkedIn: [Gangsar Anjasmoro](https://linkedin.com/in/gangsaranjasmoro)
+
 ## Deskripsi Project
 
 Website portofolio ini dibuat untuk memenuhi tugas Pemrograman Web dengan menerapkan konsep **Responsive Web Design (RWD)**. Website terdiri dari 3 halaman utama yang terintegrasi dengan navigasi konsisten dan dapat diakses dengan baik di berbagai ukuran layar (desktop, tablet, dan mobile).
@@ -68,6 +78,4 @@ Website portofolio ini dibuat untuk memenuhi tugas Pemrograman Web dengan menera
   - Desktop: > 1024px
   - Tablet: 768px - 1024px
   - Mobile: < 768px
-
-## Struktur File
 
